@@ -7,7 +7,7 @@
 또한 우리는 각 단어가 가지고 있는 사전적 의미뿐만 아니라 사전에는 등록되지 않았지만 실질적으로 사용되고 있는 단어의 새로운 의미도 기계학습을 통해 발견할 수 있을지 기대할 수 있다.  
 
 ### 구현한 것 (Using Google Colab)
-아주대학교 도서관 데이터를 직접 크롤링
+아주대학교 도서관 데이터를 직접 크롤링  
 Pre-Trained KoBERT를 도서관 데이터로 Fine-Tuning
 
 ![image](https://github.com/Chihiro0623/Ajou-AI-Librarian/blob/main/1.png)
